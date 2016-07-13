@@ -1,0 +1,2925 @@
+Mono path[0] = 'D:/Workspace/Unity_Projects/AugR/Annotations/RemoteClient4_Data/Managed'
+Mono path[1] = 'D:/Workspace/Unity_Projects/AugR/Annotations/RemoteClient4_Data/Mono'
+Mono config path = 'D:/Workspace/Unity_Projects/AugR/Annotations/RemoteClient4_Data/Mono/etc'
+PlayerConnection initialized from D:/Workspace/Unity_Projects/AugR/Annotations/RemoteClient4_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55043
+Multi-casting "[IP] 192.168.56.1 [Port] 55043 [Flags] 3 [Guid] 1627687603 [EditorId] 3146683341 [Version] 1048832 [Id] WindowsPlayer(Firefly) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [192.168.56.1:55043]...
+PlayerConnection accepted from [192.168.0.16] handle:0x234
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56603
+PlayerConnection already initialized - listening to [192.168.56.1:55043]
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.101 seconds
+Platform assembly: D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Managed\System.dll (this message is harmless)
+desktop: 1440x900 60Hz; virtual: 3360x1080 at -1440,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.496786 ms
+Logitech HD Pro Webcam C910
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Start() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:49)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 49)
+
+Client socket creation success
+
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Start() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:69)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 69)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 4cd4 -> priority: 1 
+Connection: host 0 connection 1
+
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:88)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 88)
+
+Sending size 307200
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:128)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 128)
+
+1Remaining bytes: 306176 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+2Remaining bytes: 305152 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+3Remaining bytes: 304128 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+4Remaining bytes: 303104 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+5Remaining bytes: 302080 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+6Remaining bytes: 301056 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+7Remaining bytes: 300032 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+8Remaining bytes: 299008 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+9Remaining bytes: 297984 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+10Remaining bytes: 296960 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+11Remaining bytes: 295936 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+12Remaining bytes: 294912 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+13Remaining bytes: 293888 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+14Remaining bytes: 292864 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+15Remaining bytes: 291840 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+16Remaining bytes: 290816 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+17Remaining bytes: 289792 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+18Remaining bytes: 288768 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+19Remaining bytes: 287744 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+20Remaining bytes: 286720 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+21Remaining bytes: 285696 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+22Remaining bytes: 284672 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+23Remaining bytes: 283648 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+24Remaining bytes: 282624 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+25Remaining bytes: 281600 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+26Remaining bytes: 280576 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+27Remaining bytes: 279552 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+28Remaining bytes: 278528 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+29Remaining bytes: 277504 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+30Remaining bytes: 276480 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+31Remaining bytes: 275456 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+32Remaining bytes: 274432 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+33Remaining bytes: 273408 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+34Remaining bytes: 272384 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+35Remaining bytes: 271360 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+36Remaining bytes: 270336 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+37Remaining bytes: 269312 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+38Remaining bytes: 268288 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+39Remaining bytes: 267264 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+40Remaining bytes: 266240 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+41Remaining bytes: 265216 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+42Remaining bytes: 264192 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+43Remaining bytes: 263168 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+44Remaining bytes: 262144 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+45Remaining bytes: 261120 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+46Remaining bytes: 260096 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+47Remaining bytes: 259072 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+48Remaining bytes: 258048 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+49Remaining bytes: 257024 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+50Remaining bytes: 256000 - Error: 0
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+51Remaining bytes: 254976 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+52Remaining bytes: 253952 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+53Remaining bytes: 252928 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+54Remaining bytes: 251904 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+55Remaining bytes: 250880 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+56Remaining bytes: 249856 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+57Remaining bytes: 248832 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+58Remaining bytes: 247808 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+59Remaining bytes: 246784 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+60Remaining bytes: 245760 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+61Remaining bytes: 244736 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+62Remaining bytes: 243712 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+63Remaining bytes: 242688 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+64Remaining bytes: 241664 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+65Remaining bytes: 240640 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+66Remaining bytes: 239616 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+67Remaining bytes: 238592 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+68Remaining bytes: 237568 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+69Remaining bytes: 236544 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+70Remaining bytes: 235520 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+71Remaining bytes: 234496 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+72Remaining bytes: 233472 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+73Remaining bytes: 232448 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+74Remaining bytes: 231424 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+75Remaining bytes: 230400 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+76Remaining bytes: 229376 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+77Remaining bytes: 228352 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+78Remaining bytes: 227328 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+79Remaining bytes: 226304 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+80Remaining bytes: 225280 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+81Remaining bytes: 224256 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+82Remaining bytes: 223232 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+83Remaining bytes: 222208 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+84Remaining bytes: 221184 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+85Remaining bytes: 220160 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+86Remaining bytes: 219136 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+87Remaining bytes: 218112 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+88Remaining bytes: 217088 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+89Remaining bytes: 216064 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+90Remaining bytes: 215040 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+91Remaining bytes: 214016 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+92Remaining bytes: 212992 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+93Remaining bytes: 211968 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+94Remaining bytes: 210944 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+95Remaining bytes: 209920 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+96Remaining bytes: 208896 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+97Remaining bytes: 207872 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+98Remaining bytes: 206848 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+99Remaining bytes: 205824 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+100Remaining bytes: 204800 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+101Remaining bytes: 203776 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+102Remaining bytes: 202752 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+103Remaining bytes: 201728 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+104Remaining bytes: 200704 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+105Remaining bytes: 199680 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+106Remaining bytes: 198656 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+107Remaining bytes: 197632 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+108Remaining bytes: 196608 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+109Remaining bytes: 195584 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+110Remaining bytes: 194560 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+111Remaining bytes: 193536 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+112Remaining bytes: 192512 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+113Remaining bytes: 191488 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+114Remaining bytes: 190464 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+115Remaining bytes: 189440 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+116Remaining bytes: 188416 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+117Remaining bytes: 187392 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+118Remaining bytes: 186368 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+119Remaining bytes: 185344 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+120Remaining bytes: 184320 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+121Remaining bytes: 183296 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+122Remaining bytes: 182272 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+123Remaining bytes: 181248 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+124Remaining bytes: 180224 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+125Remaining bytes: 179200 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+126Remaining bytes: 178176 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+127Remaining bytes: 177152 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+128Remaining bytes: 176128 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+129Remaining bytes: 175104 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+130Remaining bytes: 174080 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+131Remaining bytes: 173056 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+132Remaining bytes: 172032 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+133Remaining bytes: 171008 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+134Remaining bytes: 169984 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+135Remaining bytes: 168960 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+136Remaining bytes: 167936 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+137Remaining bytes: 166912 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+138Remaining bytes: 165888 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+139Remaining bytes: 164864 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+140Remaining bytes: 163840 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+141Remaining bytes: 162816 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+142Remaining bytes: 161792 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+143Remaining bytes: 160768 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+144Remaining bytes: 159744 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+145Remaining bytes: 158720 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+146Remaining bytes: 157696 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+147Remaining bytes: 156672 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+148Remaining bytes: 155648 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+149Remaining bytes: 154624 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+150Remaining bytes: 153600 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+151Remaining bytes: 152576 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+152Remaining bytes: 151552 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+153Remaining bytes: 150528 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+154Remaining bytes: 149504 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+155Remaining bytes: 148480 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+156Remaining bytes: 147456 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+157Remaining bytes: 146432 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+158Remaining bytes: 145408 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+159Remaining bytes: 144384 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+160Remaining bytes: 143360 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+161Remaining bytes: 142336 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+162Remaining bytes: 141312 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+163Remaining bytes: 140288 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+164Remaining bytes: 139264 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+165Remaining bytes: 138240 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+166Remaining bytes: 137216 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+167Remaining bytes: 136192 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+168Remaining bytes: 135168 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+169Remaining bytes: 134144 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+170Remaining bytes: 133120 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+171Remaining bytes: 132096 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+172Remaining bytes: 131072 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+173Remaining bytes: 130048 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+174Remaining bytes: 129024 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+175Remaining bytes: 128000 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+176Remaining bytes: 126976 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+177Remaining bytes: 125952 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+178Remaining bytes: 124928 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+179Remaining bytes: 123904 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+180Remaining bytes: 122880 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+181Remaining bytes: 121856 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+182Remaining bytes: 120832 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+183Remaining bytes: 119808 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+184Remaining bytes: 118784 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+185Remaining bytes: 117760 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+186Remaining bytes: 116736 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+187Remaining bytes: 115712 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+188Remaining bytes: 114688 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+189Remaining bytes: 113664 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+190Remaining bytes: 112640 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+191Remaining bytes: 111616 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+192Remaining bytes: 110592 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+193Remaining bytes: 109568 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+194Remaining bytes: 108544 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+195Remaining bytes: 107520 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+196Remaining bytes: 106496 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+197Remaining bytes: 105472 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+198Remaining bytes: 104448 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+199Remaining bytes: 103424 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+200Remaining bytes: 102400 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+201Remaining bytes: 101376 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+202Remaining bytes: 100352 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+203Remaining bytes: 99328 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+204Remaining bytes: 98304 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+205Remaining bytes: 97280 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+206Remaining bytes: 96256 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+207Remaining bytes: 95232 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+208Remaining bytes: 94208 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+209Remaining bytes: 93184 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+210Remaining bytes: 92160 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+211Remaining bytes: 91136 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+212Remaining bytes: 90112 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+213Remaining bytes: 89088 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+214Remaining bytes: 88064 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+215Remaining bytes: 87040 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+216Remaining bytes: 86016 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+217Remaining bytes: 84992 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+218Remaining bytes: 83968 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+219Remaining bytes: 82944 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+220Remaining bytes: 81920 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+221Remaining bytes: 80896 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+222Remaining bytes: 79872 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+223Remaining bytes: 78848 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+224Remaining bytes: 77824 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+225Remaining bytes: 76800 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+226Remaining bytes: 75776 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+227Remaining bytes: 74752 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+228Remaining bytes: 73728 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+229Remaining bytes: 72704 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+230Remaining bytes: 71680 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+231Remaining bytes: 70656 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+232Remaining bytes: 69632 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+233Remaining bytes: 68608 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+234Remaining bytes: 67584 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+235Remaining bytes: 66560 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+236Remaining bytes: 65536 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+237Remaining bytes: 64512 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+238Remaining bytes: 63488 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+239Remaining bytes: 62464 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+240Remaining bytes: 61440 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+241Remaining bytes: 60416 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+242Remaining bytes: 59392 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+243Remaining bytes: 58368 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+244Remaining bytes: 57344 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+245Remaining bytes: 56320 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+246Remaining bytes: 55296 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+247Remaining bytes: 54272 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+248Remaining bytes: 53248 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+249Remaining bytes: 52224 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+250Remaining bytes: 51200 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+251Remaining bytes: 50176 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+252Remaining bytes: 49152 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+253Remaining bytes: 48128 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+254Remaining bytes: 47104 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+255Remaining bytes: 46080 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+256Remaining bytes: 45056 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+257Remaining bytes: 44032 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+258Remaining bytes: 43008 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+259Remaining bytes: 41984 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+260Remaining bytes: 40960 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+261Remaining bytes: 39936 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+262Remaining bytes: 38912 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+263Remaining bytes: 37888 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+264Remaining bytes: 36864 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+265Remaining bytes: 35840 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+266Remaining bytes: 34816 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+267Remaining bytes: 33792 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+268Remaining bytes: 32768 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+269Remaining bytes: 31744 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+270Remaining bytes: 30720 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+271Remaining bytes: 29696 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+272Remaining bytes: 28672 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+273Remaining bytes: 27648 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+274Remaining bytes: 26624 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+275Remaining bytes: 25600 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+276Remaining bytes: 24576 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+277Remaining bytes: 23552 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+278Remaining bytes: 22528 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+279Remaining bytes: 21504 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+280Remaining bytes: 20480 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+281Remaining bytes: 19456 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+282Remaining bytes: 18432 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+283Remaining bytes: 17408 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+284Remaining bytes: 16384 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+285Remaining bytes: 15360 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+286Remaining bytes: 14336 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+287Remaining bytes: 13312 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+288Remaining bytes: 12288 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+289Remaining bytes: 11264 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+290Remaining bytes: 10240 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+291Remaining bytes: 9216 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+292Remaining bytes: 8192 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+293Remaining bytes: 7168 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+294Remaining bytes: 6144 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+295Remaining bytes: 5120 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+296Remaining bytes: 4096 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+297Remaining bytes: 3072 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+298Remaining bytes: 2048 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+299Remaining bytes: 1024 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+300Remaining bytes: 0 - Error: 4
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:142)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 142)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:8880}
+Disconnected: host 0 connection 1
+
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:95)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 95)
+
+Network Timeout
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogError(Object)
+StreamClient:Update() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:110)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 110)
+
+Application ending after 76.94756 seconds
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+StreamClient:OnApplicationQuit() (at D:\Workspace\Unity_Projects\AugR\Annotations\Assets\Scripts\StreamClient.cs:42)
+ 
+(Filename: D:/Workspace/Unity_Projects/AugR/Annotations/Assets/Scripts/StreamClient.cs Line: 42)
+
+Waiting for finish
+Crash!!!
+SymInit: Symbol-SearchPath: '.;D:\Workspace\Unity_Projects\AugR\Annotations;D:\Workspace\Unity_Projects\AugR\Annotations;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'William'
+OS-Version: 10.0.10586 () 0x100-0x1
+D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4.exe:RemoteClient4.exe (009C0000), size: 20815872 (result: 0), SymType: 'PDB', PDB: '.\player_win_development_x86.pdb', fileVersion: 5.3.4.47953
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (77700000), size: 1552384 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 10.0.10586.122
+C:\WINDOWS\SYSTEM32\KERNEL32.DLL:KERNEL32.DLL (748C0000), size: 917504 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\KERNEL32.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\KERNELBASE.dll:KERNELBASE.dll (75320000), size: 1564672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\KERNELBASE.dll', fileVersion: 10.0.10586.162
+C:\WINDOWS\SYSTEM32\GDI32.dll:GDI32.dll (74690000), size: 1372160 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GDI32.dll', fileVersion: 10.0.10586.63
+C:\WINDOWS\SYSTEM32\USER32.dll:USER32.dll (751D0000), size: 1339392 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\USER32.dll', fileVersion: 10.0.10586.20
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (73430000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\ADVAPI32.dll:ADVAPI32.dll (74610000), size: 503808 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ADVAPI32.dll', fileVersion: 10.0.10586.63
+C:\WINDOWS\SYSTEM32\msvcrt.dll:msvcrt.dll (74F70000), size: 778240 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msvcrt.dll', fileVersion: 7.0.10586.0
+C:\WINDOWS\SYSTEM32\sechost.dll:sechost.dll (749E0000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\sechost.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\RPCRT4.dll:RPCRT4.dll (75650000), size: 708608 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\RPCRT4.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (74430000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SspiCli.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (74420000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTBASE.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll:bcryptPrimitives.dll (75710000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\bcryptPrimitives.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\WS2_32.dll:WS2_32.dll (755F0000), size: 389120 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WS2_32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\ole32.dll:ole32.dll (75770000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ole32.dll', fileVersion: 10.0.10586.162
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (74410000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\combase.dll:combase.dll (758C0000), size: 1822720 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\combase.dll', fileVersion: 10.0.10586.103
+C:\WINDOWS\SYSTEM32\SHLWAPI.dll:SHLWAPI.dll (75A80000), size: 282624 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SHLWAPI.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\PSAPI.DLL:PSAPI.DLL (77470000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\PSAPI.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\SHELL32.dll:SHELL32.dll (75EE0000), size: 20963328 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SHELL32.dll', fileVersion: 10.0.10586.122
+C:\WINDOWS\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (749A0000), size: 225280 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\cfgmgr32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (74A60000), size: 5218304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\windows.storage.dll', fileVersion: 10.0.10586.162
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (77520000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\kernel.appcore.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\shcore.dll:shcore.dll (74830000), size: 577536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\shcore.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (754A0000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\powrprof.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (772E0000), size: 61440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\profapi.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\OLEAUT32.dll:OLEAUT32.dll (74450000), size: 598016 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OLEAUT32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (68430000), size: 917504 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\IMM32.dll:IMM32.dll (74A30000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IMM32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (73FC0000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\MSACM32.dll:MSACM32.dll (5E610000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSACM32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (73230000), size: 540672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (74200000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (72AB0000), size: 634880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.10586.71
+C:\WINDOWS\SYSTEM32\NSI.dll:NSI.dll (750C0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\NSI.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (50A70000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\DDRAW.dll:DDRAW.dll (66FF0000), size: 974848 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DDRAW.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (01DB0000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMMBASE.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (704E0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DCIMAN32.dll', fileVersion: 10.0.10586.3
+D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Mono\mono.dll:mono.dll (10000000), size: 2293760 (result: 0), SymType: '-exported-', PDB: 'D:\Workspace\Unity_Projects\AugR\Annotations\RemoteClient4_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (721A0000), size: 323584 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (71850000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (719A0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\napinsp.dll:napinsp.dll (64A90000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\napinsp.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\pnrpnsp.dll:pnrpnsp.dll (64A70000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\pnrpnsp.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\NLAapi.dll:NLAapi.dll (704C0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\NLAapi.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\System32\winrnr.dll:winrnr.dll (64A60000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\winrnr.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\System32\wshbth.dll:wshbth.dll (64A40000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\wshbth.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (71720000), size: 479232 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\uxtheme.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\MSCTF.dll:MSCTF.dll (744F0000), size: 1175552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSCTF.dll', fileVersion: 10.0.10586.71
+C:\WINDOWS\system32\dwmapi.dll:dwmapi.dll (732C0000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dwmapi.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (68B70000), size: 2203648 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d11.dll', fileVersion: 10.0.10586.122
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (68D90000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 10.0.10586.162
+C:\WINDOWS\SYSTEM32\nvwgf2um.dll:nvwgf2um.dll (07E50000), size: 17281024 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\nvwgf2um.dll', fileVersion: 10.18.13.6472
+C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (74380000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\bcrypt.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\nvspcap.dll:nvspcap.dll (50BF0000), size: 1380352 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\nvspcap.dll', fileVersion: 2.11.2.55
+C:\WINDOWS\SYSTEM32\SETUPAPI.dll:SETUPAPI.dll (75AD0000), size: 4239360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SETUPAPI.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\system32\nvapi.dll:nvapi.dll (505C0000), size: 3448832 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\nvapi.dll', fileVersion: 10.18.13.6472
+C:\WINDOWS\SYSTEM32\d3d9.dll:d3d9.dll (68E20000), size: 1880064 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d9.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\MMDevAPI.DLL:MMDevAPI.DLL (6CBC0000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MMDevAPI.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\DEVOBJ.dll:DEVOBJ.dll (74320000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DEVOBJ.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\PROPSYS.dll:PROPSYS.dll (6CA70000), size: 1355776 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\PROPSYS.dll', fileVersion: 7.0.10586.0
+C:\WINDOWS\SYSTEM32\wdmaud.drv:wdmaud.drv (64AF0000), size: 229376 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wdmaud.drv', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\ksuser.dll:ksuser.dll (6F700000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ksuser.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\AVRT.dll:AVRT.dll (73020000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AVRT.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (6CC20000), size: 425984 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.10586.71
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (6F7C0000), size: 819200 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wintypes.dll', fileVersion: 10.0.10586.103
+C:\WINDOWS\SYSTEM32\msacm32.drv:msacm32.drv (6B9D0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msacm32.drv', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\midimap.dll:midimap.dll (6B0D0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\midimap.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\dsound.dll:dsound.dll (10490000), size: 548864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dsound.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\clbcatq.dll:clbcatq.dll (75030000), size: 540672 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\comctl32.dll:comctl32.dll (73FF0000), size: 2158592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10586.0_none_d3c2e4e965da4528\comctl32.dll', fileVersion: 6.10.10586.0
+C:\Windows\SYSTEM32\devenum.dll:devenum.dll (59C20000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\devenum.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (74350000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntmarta.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\WINTRUST.dll:WINTRUST.dll (747E0000), size: 270336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINTRUST.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\MSASN1.dll:MSASN1.dll (75700000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSASN1.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\CRYPT32.dll:CRYPT32.dll (772F0000), size: 1540096 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPT32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\msdmo.dll:msdmo.dll (59C10000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msdmo.dll', fileVersion: 10.0.10586.0
+C:\Windows\SYSTEM32\qcap.dll:qcap.dll (6F690000), size: 237568 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\qcap.dll', fileVersion: 10.0.10586.0
+C:\Windows\SYSTEM32\MSVFW32.dll:MSVFW32.dll (6F660000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MSVFW32.dll', fileVersion: 10.0.10586.0
+C:\Windows\SYSTEM32\quartz.dll:quartz.dll (50410000), size: 1753088 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\quartz.dll', fileVersion: 10.0.10586.71
+C:\Windows\SYSTEM32\ksproxy.ax:ksproxy.ax (6F710000), size: 249856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ksproxy.ax', fileVersion: 10.0.10586.63
+C:\WINDOWS\SYSTEM32\policymanager.dll:policymanager.dll (5E530000), size: 303104 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\policymanager.dll', fileVersion: 10.0.10586.11
+C:\Windows\SYSTEM32\msvcp110_win.dll:msvcp110_win.dll (528F0000), size: 413696 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\msvcp110_win.dll', fileVersion: 10.0.10586.0
+C:\Windows\SYSTEM32\vidcap.ax:vidcap.ax (6F6F0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\vidcap.ax', fileVersion: 10.0.10586.0
+C:\Windows\SYSTEM32\kswdmcap.ax:kswdmcap.ax (6F6D0000), size: 131072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\kswdmcap.ax', fileVersion: 10.0.10586.0
+C:\Windows\SYSTEM32\MFC42.dll:MFC42.dll (71870000), size: 1241088 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\MFC42.dll', fileVersion: 6.6.8063.0
+C:\Windows\SYSTEM32\ODBC32.dll:ODBC32.dll (717B0000), size: 626688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\ODBC32.dll', fileVersion: 10.0.10586.0
+C:\Windows\SYSTEM32\DPAPI.dll:DPAPI.dll (717A0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DPAPI.dll', fileVersion: 10.0.10586.0
+C:\Windows\SYSTEM32\qedit.dll:qedit.dll (1BE00000), size: 593920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\qedit.dll', fileVersion: 10.0.10586.63
+C:\WINDOWS\SYSTEM32\COMDLG32.dll:COMDLG32.dll (750D0000), size: 991232 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\COMDLG32.dll', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\FirewallAPI.dll:FirewallAPI.dll (754F0000), size: 385024 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\FirewallAPI.dll', fileVersion: 10.0.10586.162
+C:\WINDOWS\SYSTEM32\NETAPI32.dll:NETAPI32.dll (755D0000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\NETAPI32.dll', fileVersion: 10.0.10586.0
+C:\Windows\SYSTEM32\DAVHLPR.DLL:DAVHLPR.DLL (73030000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SYSTEM32\DAVHLPR.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.10586.20_none_22adb5eaa762c7fa\gdiplus.dll:gdiplus.dll (65740000), size: 1486848 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.10586.20_none_22adb5eaa762c7fa\gdiplus.dll', fileVersion: 10.0.10586.20
+C:\WINDOWS\SYSTEM32\fwbase.dll:fwbase.dll (69B10000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\fwbase.dll', fileVersion: 10.0.10586.162
+C:\WINDOWS\SYSTEM32\D3DIM700.DLL:D3DIM700.DLL (5BDC0000), size: 913408 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\D3DIM700.DLL', fileVersion: 10.0.10586.0
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (725C0000), size: 1306624 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 10.0.10586.0
+
+========== OUTPUTING STACK TRACE ==================
+
+0x00D3F74A (RemoteClient4) [c:\buildslave\unity\build\external\videoinput\videoinput.cpp:1695] videoInput::start 
+0x00D40232 (RemoteClient4) [c:\buildslave\unity\build\external\videoinput\videoinput.cpp:1449] videoInput::setup 
+0x00D402F0 (RemoteClient4) [c:\buildslave\unity\build\external\videoinput\videoinput.cpp:643] videoInput::setupDevice 
+0x00D4038F (RemoteClient4) [c:\buildslave\unity\build\external\videoinput\videoinput.cpp:1294] videoInput::restartDevice 
+0x00D40497 (RemoteClient4) [c:\buildslave\unity\build\external\videoinput\videoinput.cpp:960] videoInput::isFrameNew 
+0x00B056D3 (RemoteClient4) [c:\buildslave\unity\build\platformdependent\win\videotexture.cpp:96] WebCamTexture::Update 
+0x00D3B017 (RemoteClient4) [c:\buildslave\unity\build\platformdependent\winplayer\winmain.cpp:546] MainMessageLoop 
+0x00D3D2B4 (RemoteClient4) [c:\buildslave\unity\build\platformdependent\winplayer\winmain.cpp:969] PlayerWinMain 
+0x0117D5B8 (RemoteClient4) [c:\buildslave\unity\build\platformdependent\winplayer\shimmain.cpp:6] WinMain 
+0x011B35D8 (RemoteClient4) [f:\dd\vctools\crt_bld\self_x86\crt\src\crt0.c:275] __tmainCRTStartup 
+0x748D38F4 (KERNEL32) BaseThreadInitThunk
+0x77765DE3 (ntdll) RtlUnicodeStringToInteger
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
