@@ -13,9 +13,9 @@ public class DepthRenderer : MonoBehaviour {
 
     // Vertex is limited to 65000, therefore limit ViewSpace
     // Full Depth data is 512 x 424 = 217,088, that is ~4x over limit
-    public int m_ViewStartX = 150, m_ViewStartY = 180;
+    public int m_ViewStartX = 165, m_ViewStartY = 120;
     [HideInInspector] // Must call InitialiseMemoryAndMesh() when changed
-    public int m_ViewWidth = 250, m_ViewHeight = 200;
+    public int m_ViewWidth = 230, m_ViewHeight = 160;
     [Range(0,1f)]
     public double m_DepthScaleFactor = 0.2f;
     private const int MAX_DEPTH = 1000;
