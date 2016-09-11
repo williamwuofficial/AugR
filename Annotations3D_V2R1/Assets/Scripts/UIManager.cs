@@ -163,7 +163,7 @@ public class UIManager : MonoBehaviour {
 
     }
 
-    void SaveSettings()
+    public void SaveSettings()
     {
         int setVal = 1;
         PlayerPrefs.SetInt(KEY_LOCATIONX, Convert.ToInt32(m_LocationX.text));
@@ -182,7 +182,7 @@ public class UIManager : MonoBehaviour {
         PlayerPrefs.SetFloat(KEY_DEPTHSCALES, m_DepthScale.value);
     }
 
-    void ApplySettings()
+    public void ApplySettings()
     {
         m_DepthViewRenderer.m_enableColor = m_ToggleColor.isOn;
         m_DepthViewRenderer.m_enableDepth = m_ToggleDepth.isOn;

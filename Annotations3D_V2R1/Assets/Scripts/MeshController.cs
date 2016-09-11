@@ -9,44 +9,16 @@ using System.Collections;
 /// </summary>
 public class MeshController : MonoBehaviour {
 
-    private Camera m_MainCamera;
-
-    private SerialPort stream;
-    private string streamData;
-    int rotationVal;    
-    double scaleFactor;
-        
-    float timeDelay;
-    float lastReadTime, currentReadTime;
-    float readDelay;
+    public UIManager uiManager;
 
     private int m_PlaneRotationSpeed = 20;
-    private Vector3 m_LookPoint = new Vector3(125, -100, 0);
+    private int m_PlaneMoveSpeed = 50;
+    private int m_PlaneScaleSpeed = 20;
+    private int m_PlaneZoomSpeed = 20;
 
-    void OnApplicationQuit()
-    {
-        if (stream != null)
-        {
-            stream.Close();
-        }
-        
-    }
    
     void Start () {
-        m_MainCamera = Camera.main;
-        //m_MainCamera.transform.LookAt(m_LookPoint);
-
-        stream = new SerialPort("COM7", 115200);
-        stream.ReadTimeout = 3000;
-        stream.Open();
-
-        streamData = null;
-        streamData = stream.ReadLine();
-        stream.BaseStream.Flush();
-
-        scaleFactor = (double)(359) / (680);
-        timeDelay = Time.realtimeSinceStartup;
-        float lastReadTime = Time.realtimeSinceStartup;
+  
     }
 	
 	
@@ -55,44 +27,46 @@ public class MeshController : MonoBehaviour {
         float xVal = -Input.GetAxis("Vertical");
 
         transform.Rotate(
-            (xVal * Time.deltaTime * m_PlaneRotationSpeed),
-            (yVal * Time.deltaTime * m_PlaneRotationSpeed),
+            (-xVal * Time.deltaTime * m_PlaneRotationSpeed),
+            (-yVal * Time.deltaTime * m_PlaneRotationSpeed),
             0,
             Space.World);
-     
-        /*try
+
+        float leftRight = Input.GetAxis("JoyX");
+        transform.Translate(Vector3.right * Time.deltaTime * leftRight * m_PlaneMoveSpeed, Space.World);
+
+        float upDown = Input.GetAxis("JoyY");
+        transform.Translate(Vector3.up * Time.deltaTime * upDown * m_PlaneMoveSpeed, Space.World);
+
+        float frontBack = Input.GetAxis("JoyZ");
+        transform.Translate(Vector3.forward * Time.deltaTime * frontBack * m_PlaneMoveSpeed, Space.World);
+
+        // Actually scale the object
+        float scale = Input.GetAxis("Scale");
+        transform.localScale += new Vector3(Time.deltaTime * scale * m_PlaneScaleSpeed, 
+                                                Time.deltaTime * scale * m_PlaneScaleSpeed, 
+                                                Time.deltaTime * scale * m_PlaneScaleSpeed);
+
+        // Actually increase the value of the numbers in the surface mesh
+        // call back to UI Manager
+        if (Input.GetKeyDown(KeyCode.KeypadPlus))
         {
-            if (Time.realtimeSinceStartup - timeDelay < 0.245f)
+            if(uiManager != null)
             {
-                return;
+                uiManager.m_DepthScale.value += 0.1f;
+                uiManager.SaveSettings();
+                uiManager.ApplySettings();
             }
-            timeDelay = Time.realtimeSinceStartup;
-
-            readDelay = Time.realtimeSinceStartup;
-            streamData = stream.ReadLine();
-            stream.BaseStream.Flush();
-            Debug.Log("R - " + (Time.realtimeSinceStartup - readDelay));
-
-            currentReadTime = Time.realtimeSinceStartup;
-            Debug.Log( currentReadTime - lastReadTime);
-            //Debug.Log(streamData);
-            lastReadTime = currentReadTime;
-
-            rotationVal = int.Parse(streamData);
-            Debug.Log(rotationVal);
-            transform.rotation = Quaternion.Euler(   0, (int)(-1*rotationVal * scaleFactor),  0 );
-
-        }
-        catch (TimeoutException)
+        } else if (Input.GetKeyDown(KeyCode.KeypadMinus))
         {
-            Debug.LogError("Arduino Timeout Exception");
-            Debug.Break();
+            if (uiManager != null)
+            {
+                uiManager.m_DepthScale.value -= 0.1f;
+                uiManager.SaveSettings();
+                uiManager.ApplySettings();
+            }
         }
-        catch (FormatException)
-        {
-            //Ignore
-        }
-        */
+
     }
 
 
